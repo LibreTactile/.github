@@ -14,7 +14,7 @@ So we invite people from different backgrounds, nationalities, and interests (in
 
 We encourage (but not enforce) the use of permissive licenses (such as MIT, freebsd, CERN-OHL-P, etc) so that everyone can use, share, modify, buy, sell, and spread the fruits of the community.
 
-> You can learn more about the choice of license and the organization in general reading the [FAQ](../docs/faq.md).
+> You can learn more about the choice of license and the organization in general reading the [FAQ](/docs/faq.md).
 
 ## R & D
 
@@ -27,22 +27,22 @@ Although each project comes with its particularities, our projects are developed
 5. _Easy to build_ with basic software or electronic skills, tools and components.
 6. _Easy to modify_, to facilitate the implementation of new ideas.
 
-> You can learn more about the research and development of our current and future projects in the [R&D](../docs/R-and-D.MD) document. (pending)
+> You can learn more about the research and development of our current and future projects in the [R&D](/docs/R-and-D.MD) document. (pending)
 
 ## Get in touch
 
-If you need help building or modifiying one of our projects, or if you would like to encourage the team or join our efforts, you can get check out the [FAQ](../docs/faq.md), and join in the discussion (pending), or send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
+If you need help building or modifiying one of our projects, or if you would like to encourage the team or join our efforts, you can get check out the [FAQ](/docs/faq.md), and join in the discussion (pending), or send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
 
 <!-- TODO:  manage discussions for organization and specific repos ...-->
 
-Dont forget to read the [code of conduct](../docs/code_of_conduct.md) to understand the kind of open and welcoming environment we try to promote.
+Dont forget to read the [code of conduct](/docs/code_of_conduct.md) to understand the kind of open and welcoming environment we try to promote.
 
-If you would like to contribute to the project, follow the [contribuiting guideliness](../docs/contribuiting.md).
+If you would like to contribute to the project, follow the [contribuiting guideliness](/docs/contribuiting.md).
 We are a small team, made up mostly of academic researchers (I am currently the only developer), so any artist, writer, translator, tester, accessibility expert, researcher, developer maintainer or anyone who can (and wishes) to help is very much apprecited.
 
 You can also show support for the project, through a financial contribution by using our github sponsor button (pending).
 
-<!-- TODO:  add sponsor button, or something like that ...-->
+<!-- TODO:  add sponsor button, or something like that .-->
 
 ## Research team
 
@@ -88,4 +88,4 @@ Special thanks to the general open source community, which have taken poured yea
 
 ## License
 
-The documentation of this repository is released under [MIT license](../LICENSE) (permissive).
+The documentation of this repository is released under [MIT license](/LICENSE) (permissive).
