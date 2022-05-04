@@ -58,23 +58,21 @@ Juan Nino MA - PhD student at Laval University in Quebec.
 
 ## Partners
 
-The project that lead to the fundation of this organization was made possible thanks to the collaboration of our partner organizations.
+The [project]() that lead to the fundation of this organization was made possible thanks to the collaboration of our partner organizations.
 
-<!-- TODO:  Fix logo size ... by adding a local screenshot of the image to this repo ;  also add link to repo of the mentioned project-->
+[![Laval University logo](/docs/img/logo-ulaval.png "Laval University")](https://www.ulaval.ca/en)
 
-[![Laval University logo](https://authentification.ulaval.ca/assets/svg/logo-universite-laval.svg "Laval University")](https://www.ulaval.ca/en)
+[![CIRRIS logo](/docs/img/logo-cirris.png "CIRRIS")](https://www.cirris.ulaval.ca/)
 
-[![CIRRIS logo](https://www.cirris.ulaval.ca/wp-content/themes/cirris/assets/images/logo-cirris.png "CIRRIS")](https://www.cirris.ulaval.ca/)
+[![Inclusive society logo](/docs/img/logo_is.png "Inclusive society")](https://societeinclusive.ca/en/socinc/vers-une-societe-quebecoise-plus-inclusive/)
 
-[![Inclusive society logo](https://societeinclusive.ca/wp-content/themes/wp-bootstrap-socinc/images/logo_en.png "Inclusive society")](https://societeinclusive.ca/en/socinc/vers-une-societe-quebecoise-plus-inclusive/)
+[![CRIR logo](/docs/img/logo-crir.png "CRIR")](https://crir.ca/en/)
 
-[![CRIR logo](https://crir.ca/wp-content/themes/ekloweb/img/logo_crir.svg "CRIR")](https://crir.ca/en/)
+[![Lethbridge-Layton-Mackay logo](/docs/img/logo_crllm.png "CLethbridge-Layton-Mackay")](https://www.llmrc.ca/)
 
-[![Lethbridge-Layton-Mackay logo](https://www.llmrc.ca/typo3conf/ext/tm_core/Resources/Public/images/crllm.png "CLethbridge-Layton-Mackay")](https://www.llmrc.ca/)
+[![INLB logo](/docs/img/logo-inlb.png "INLB")](https://www.santemonteregie.qc.ca/en/node/2134)
 
-[![INLB logo](https://raamm.org/wp-content/uploads/2019/06/Institut-Nazareth-Louis-Braille-300x162.png "INLB")](https://www.santemonteregie.qc.ca/en/node/2134)
-
-[![RAAMM logo](https://raamm.org/wp-content/themes/raamm/img/logo-raamm.svg "RAAMM")](https://raamm.org/)
+[![RAAMM logo](/docs/img/logo-raamm.png "RAAMM")](https://raamm.org/)
 
 ### Acknowledgement
 
