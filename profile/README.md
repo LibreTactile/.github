@@ -4,13 +4,18 @@ LibreTactile is an organization concerned with the research, development, diffus
 
 Although we pay extra attention to development of assistive technologies, you will see the same technology being implemented in VR gaming and other fields. That's part of the charm of open source, after all :wink:
 
+## The birth of LibreTactile
+
+[We](#research-team) are developing [assistive technology](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) for visually impaired people, and we noticed that there aren't many options for tactile interfaces, not even simple ones, and certainly not many inexpensive ones.  
+So we decided to create our own and open source it to enable more people to develop tactile interfaces, to be implemented in assistive technologies, or any other field (gaming, XR, VR neurorehab, etc). Being such a large task that requires the resources and expertise from many different fields we decided to create an organization to help orchestrate the efforts.
+
 ## A platform for community
 
 Hence, LibreTactile aims to serve as a platform to connect academics, developers, users and enthusiasts of tactile technology from different fields. We believe in the power, flexibility, innovation and resilience that diversity brings into communities.
 
 So we invite people from different backgrounds, nationalities, and interests (including assistive technology, UX/rehabilitation research, consumer electronics, designers, arts, XR and gaming) to benefit from and contribute to the mission of this organization.
 
-## Fundamentally Open
+## Fundamentally OPEN
 
 We encourage (but not enforce) the use of permissive licenses (such as MIT, freebsd, CERN-OHL-P, etc) so that everyone can use, share, modify, buy, sell, and spread the fruits of the community.
 

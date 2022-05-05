@@ -1,8 +1,73 @@
-<!--
+# R&D
 
+## Approach
 
-That is part of the charm, and the motivation for creating an open source project, the efforts of a group can benefit the general public, and others could build upon what’s already been done. “Standing in the shoulders of giants”, then again, whatever other people do with the project will bring something back to the project, be it contributions, improvements, innovative use cases or solutions, or simply awareness of the existence of the organization (which is vital for its longevity!). + ubuntu/solarpunk
-After said technology is well enough implemented, the department will expand and create other branches to research other actuation technologies. These other projects will also be developed as modular as possible, so everything will be interconnectable, to maximize the reusability of components across branches, and across individual projects in these branches. However, as an individual contributor, feel free to develop on whatever branch sparks your passion, just note that others will be encouraged to focus their energies into a different part of the r&d, so there might not be as much support for your development yet.
+To make our technology as accessible as possible, our development process [prioritizes](//profile/README.md#r--d) openess, modularity, affordability,and ease of use, construction and modificatio over performance, aesthetics, or size.
 
-The organization will have several repos. Starting with high level project repositories(such as VIAT , or unity tactio one) which will be built from the lower level repositories (or BASE modules).
--->
+We also take a participatory design approach whenever possible: involving the target users since the early stages of new development, and recognizing them as experts in their own experiences and needs.
+
+We encourage everyone to be open about their ideas, and to seek feedback from the community throughout their development process.
+
+That being said, if you are passionate about creating a marshmellow-roasting flamethrower with tactile feedback in your basement, please feel free to adapt our projects to your needs and do whatever you feel is good for the project and for yourself. ( We would love to see a picture of a marshmellow-roasting flamethrower with tactile feedback by the way!)
+
+## Goals:
+
+The first goal of development will be the codesign, construction and user testing of the [tactile-navigator]()(pending). It is the [project](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) for my doctoral thesis, and has been developed and tested based on academic research, user experiments, years of efforts and the [partnership](../profile/README.md#acknowledgement) of multiple universities, research centers and community organizations.
+This very early prototype embodies the [R&D approach](#approach) of LibreTactile, and as such there is plenty of potential for contribution.
+
+The second goal will be to adapt this technology to benefit other fields like XR, gaming, neurorehab, multimodal communication, music learning, etc.
+
+The third goal will be to design, manufacture and distribuite different "consumer ready" tactile interfaces (as affordable as possible).
+
+These are my priorities, but progress will likely be made in parallel some of the time.
+
+## Current projects
+
+Our projects are as modular as possible, so everything will be interconnectable, to maximize the reusability of components between projects.
+
+There are a few repositories that form the base modules (each one with a few options) from which the rest of the projects are built: stimulation mechanisms, interface designs, control and communication modules, and software plug-ins.
+
+The following diagram illustrates this principle:
+![Modular Repos](img/modular-repos.png)
+
+> A complete project is made of a hardware and software component. The **hardware component** is made up of an arrangement (interface design) of stimulation points (stimulation mechanism module) controlled by a microcontroller (control and communication module). The **software** module is an applicaiton, browser extension, plug-in or library that controls the behavior of the hardware component and enables advaced functionalities.
+
+### **Tactile Navigator**
+
+An assistive technology device to help visually impaired users navigate the internet.
+
+1.  Open **hardware** modules:
+    1. Stimulation mechanism: Tact-out/stim-sma - Tactile stimuation point driven by shape memory alloy wire.
+    2. Interface design: Tact-matrix: A tactile stimulation matrix made up of multiple tactile stimulation points.
+    3. Control and communication: Arduino USB CDC control module.
+2.  Open **software** modules:
+    1. Tactile Navigator Web browser extension. A chrome extension that extracts the hierarchy of a webpage and sends it to the serial port (to be displayed by the tactile navigator hardware).
+
+### **Tactile VR Glove**
+
+A tactile interface to bring tactile stimulation to VR experiences.
+
+1.  Open **hardware** modules:
+    1. Stimulation mechanism: Tact-out/stim-sma - Tactile stimuation point driven by shape memory alloy wire.
+    2. Interface design: Tact-glove: A tactile stimulation glove made up of multiple of multiple tactile stimulation points adapted to fit the fingers.
+    3. Control and communication: Arduino USB CDC control module.
+2.  Open **software** modules:
+    1. Plug-in for Unity3D.
+
+## Future projects
+
+1.  Open **hardware** modules:
+    1. Stimulation mechanisms:
+       1. Optimization of shape memory alloy actuator.
+       2. Experimentation with other driving mechanism (electromechanic, piezoelectric, etc).
+    2. Interface designs:
+       1. Stimulate patches of skin.
+       1. Braille cells.
+    3. Control and communication:
+       1. USB HID controller (i.e. raspberry pi pico).
+       2. WIFI/Bluetooth.
+1.  Open **software** modules:
+    1. Compatibility with other operating systems and mobile.
+    2. Tighther integration with JAWS/NVDA.
+    3. AI functionalities for assistive technology ( summarization, image description, structure from formating, automated navigation agent, waria regions, etc.).
+    4. Implementation in other apps: Plug-in for books/pdf, excel/tables, programming, gaming, videotactile calls.

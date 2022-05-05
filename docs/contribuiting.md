@@ -1,95 +1,58 @@
 # Contribuiting to LibreTactile
 
-Thanks! We appreciate your interest in contribuiting to a LibreTactile project! Currently, the organization and its projects are on thier early stages, so there will always be something you could do to make this something better for everyone.
+Thanks! We appreciate your interest in contribuiting to a LibreTactile project! Currently, the organization and its projects are on thier early stages, so there will always be something you could do to make this better for everyone.
+
+## Before you contribuite
+
+1. Check out [github's guide to first contribuitions](https://github.com/firstcontributions/first-contributions) if you are new to contribuiting, also our discussion tab for new contribuitors (pending).
+1. Check out the general [FAQ](/docs/faq.md) and the README of the project you are working on to familiarize with overall goal of the project.
+1. We encourage you to discuss your contribution with others in the community so you can get constructive feedback on your ideas BEFORE putting in the effort.
+1. Read and follow the [Code of conduct](/docs/code_of_conduct.md).
+1. If you are making changes to the hardware design files, dont forget to read the [FAQ](/docs/faq.md#open-hardware) and the [hardware license guide](/docs/hw-license/hw-license-howto.pdf), and adding a brief description of your changes to the [change log](/docs/rd/changes.md).
+1. Remember that we are currently at an early stage, so as the projects mature and grow, this guideliness will evolve. Come back to this document from time to time.
+
+### Style
+
+Style guide for documentation and code (pending), Issues template (pending), Pull request template (pending)
 
 ## What to contribuite
 
-1. Improving the documentation (grammar, spelling, diagrams, emojis, translations, etc).
-2. Spreading the word, starting or joining a conversation. (pending)
-3. Building projects and sharing your progress/issues/insights.
-4. Proposing a cool logo for a project.
-5. Sharing new ways to use or improve the projects.
-6. Adding more tasks to this list!
-7. Eventually, we will add project tasks, when we do, take a look at them to see if there is anything you would be interested in doing. (TODO: add project tasks).
+Here are the main areas for contribuition, eventually, we will add project tasks, when we do, take a look at them to see if there is anything you would be interested in doing. (TODO: add project tasks).
 
-## Mainteiners
+### Communication
+
+1. Improving user experience with the organization, projects, and support.
+2. Improving the documentation (grammar, spelling, diagrams, emojis, translations from technical to plain human languages, etc).
+3. Proposing cool logos for a project (please consider anything to do with image and brand will have to be approved by the maintainers/community and adhere to the brand of the organization (pending)).
+4. Sharing new ways to use or improve the projects.
+5. Helping other contribuitors with their issues.
+6. Community and organizational health, consultation and decision making.
+
+### Outreach
+
+1. Spreading the word by starting or joining a discussion (pending), or introducing the project to users, hobbist, gamers or artists that might appreciate it.
+1. Connect with companies/laboratories/students/developers/makers to partner for development of tactile technologies.
+<!-- future:
+1. Connect with clinicians/practicioners interested in implementing the technology for the benefit of their clients.
+1. Connect with funding agencies (donations, grants, fundraising, sponsorships, partnerships).
+1. Sale of products (from the open source projects) and merchandise, donation of products to groups, institutions and nonprofits.
+
+### HR
+
+1. Manage volunteers, hire/compensate contribuitors, etc.
+1. Board of directors
+   -->
+
+### R&D
+
+1. Building projects and sharing your progress/issues/insights.
+1. Advancing the development of the hardware (tactile technology, interface design, communication protocol, etc.) / software (plugins for JAWS/NVDA, Unity3d, audiobook readers, IDE, etc.) modules and protocols.
+   > Check out the [R&D document](/docs/R-and-D.MD) to understand the development approach, and the direction of current and future projects.
+
+---
+
+## Maintainers
 
 Please consider that I am currently the sole maintainer of the project, and although I will try to keep it updated often, it might take me a while to get to your issues or contributions. However, I would be happy to accept anyone that agrees with code of conduct as a maintainer, to help out with as much or as little as they want. You can send me an email at [LibreTactile](mailto:libretactile@gmail.com).
 
-Happy making!
-
-<!--
-
-## Before contribuiting
-
-1. Link to basics of contribuiting if you are new to contribuiting, also a discussion tab for newcontribuitors.
-1. Check out the [README](/README.md) of the project, pay attention to the _VISION_ section, to familiarize with overall goal of the project.
-1. Read and follow the [Code of conduct](/docs/code_of_conduct.md).
-1. If you are making changes to the hardware design files, consider reading the [hardware license guide](/docs/hw-license/hw-license-howto.pdf) and adding a brief description of your changes to the [change log](/docs/rd/changes.md).
-1. Remember that as the project matures and grows, this guideliness will evolve, so come back to this document from time to time.
-
-## How to contribuite
-
-TODO: adapt [atom's](https://github.com/atom/atom/blob/master/docs/contribuiting.md) contribuition guides (style, suggesting enhancements, pull request, etc.).
-
----
-
-If there are any additional setup steps specific for development.
-Whether there are explicit Instructions for running tests before contributions are accepted.
-If there are any requirements for contribution, if any, e.g.
-A Contributor License Agreement
-CLAHub
-http://oss-watch.ac.uk/resources/cla
-http://contributoragreements.org/
-If commits should be squashed
-Whether there is a specific coding style to adhere to. (Generally contributors will match what they see within a project.)
-Whether potential contributors should ask before they make significant changes.
-Whether work-in-progress pull requests are ok.
-What 18F's Code of Conduct states
-
----
-
-Usability testers, accessibility experts, researchers, data cleaners, writers, translators, subject-matter experts, and content designers are all people who can (and want to) help projects,
-
-LABELS & issues & milestones:
-https://github.com/girldevelopit/gdi-website/labels
-https://github.com/osscommunity/starters/issues/5
-http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_tips_and_tricks/
-
-- [ ] Something
-- [x] Someting else
-- [ ] \(Optional) Open a followup issue
-
-Issues
-Are your issues:
-
-Written clearly and in the style of a user story?
-Labeled clearly with the type of help you need?
-Detailed with additional documentation as needed?
-
-👍
-Here is a simple footnote[^1].
-
-[^1]: My reference.
-
-to provide feedback on the licence or ask questions, please use the forum so that everybody can benefit from the discussion
-
-# HOW TO USE ORGANIZE/include FILES
-
-It is best
-to archive the files using a format everybody can open. Schematics and layouts
-should be included in both source form and, should the design tool be proprietary, a
-format readable by everybody, such as pdf.
-The following documents must be distributed together with the hardware design
-sources:
-
-- Document containing the CERN-OHL-P v2
-- This Guide
-- A text file (plain ASCII file), where information can be added to but not
-  removed from, noting that the design has been changed, and
-  providing a date and information about the changes made by Licensee
-  (see section 3.3.b of CERN-OHL-P v2) (e.g. CHANGES.TXT). A detailed
-  list of changes would be helpful, as would a diff, but a description of
-  the changes (e.g. “AC/DC power converter circuit removed as AC input
-  no longer necessary”) is fine.
-  -->
+# Happy making!
