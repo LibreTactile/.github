@@ -51,9 +51,7 @@ You can also show support for the project, through a financial contribution by u
 
 ## Research team
 
-Juan Nino MA - PhD student at Laval University in Quebec.
-
-<!-- TODO:  Add my portfolio-->
+[Juan Nino MA](https://www.juannino.dev/) - PhD student at Laval University in Quebec.
 
 [Jocelyne Kiss PhD](https://www.design.ulaval.ca/personnel/professeurs/jocelyne-kiss) - Associate Professor of Arts and Technologies.  
 [Geoffrey Edwards](https://www.scg.ulaval.ca/geoffrey-edwards) - Professeur titulaire Faculté de foresterie, géographie et géomatique, Département des sciences géomatiques / Université Laval  
@@ -63,7 +61,7 @@ Juan Nino MA - PhD student at Laval University in Quebec.
 
 ## Partners
 
-The [project]() that lead to the fundation of this organization was made possible thanks to the collaboration of our partner organizations.
+The [project](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) that lead to the fundation of this organization was made possible thanks to the collaboration of our partner organizations.
 
 [![Laval University logo](/docs/img/logo-ulaval.png "Laval University")](https://www.ulaval.ca/en)
 
