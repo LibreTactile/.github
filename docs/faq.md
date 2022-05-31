@@ -14,11 +14,11 @@ To connect researchers, developers, users and enthusiasts of tactile technology 
 
 > “I am, because we are; and since we are therefore I am.” - expression of Ubuntu by J. S. Mbiti
 
-1. The idea of interconnection and interdependance leads to a sense of appreciation of and responsabilty towards others.
+1. The idea of interconnection and interdependence leads to a sense of appreciation of and responsibilty towards others.
 
 > "If I have seen further it is by standing on the shoulders of Giants."- Issac Newton
 
-2. The open source principles, which empowers people with the cummulative fruits of the efforts of humanity.
+2. The open source principles, which empowers people with the cumulative fruits of the efforts of humanity.
 
 3. We are insipred by how organizations like [Makers Making Change](https://makersmakingchange.com/) allows technically-skilled people to meet the needs of others.
 
