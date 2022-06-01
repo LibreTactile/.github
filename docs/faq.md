@@ -62,18 +62,18 @@ Often the designs of new assistive devices simply never reach the market (and he
 Here are some of the most important implications of the CERN-OHL-`P`:
 
 1. You can make and distribute the hardware described in the design files (see notices to include in #5).
-1. You can take the design, relicense it and use it without any obligation to distribute the sources. If you relicense the project, you should include a copy of the license text (<project_repo>/docs/hw-license/cern-ohl-p-v2.md) (see notices to include in #5).
-1. You can copy, distribute, or modify the design files. When sharing the hardware design source files, the **license text** (/docs/hw-license/cern-ohl-p-v2.md), **license use guide** (<project_repo>/docs/hw-license/hw-license-howto.pdf) and the **change log** (<project_repo>/docs/changes.md) should be included (see notices to include in #5).
-1. If you make modifications to the design, these should be described in the **change log** (<project_repo>/docs/changes.md).
-1. The copyright and trademark notices, references to the CERN-OHL-P v2, and disclaimer of warranties:
+2. You can take the design, relicense it and use it without any obligation to distribute the sources. If you relicense the project, you should include a copy of the license text (/docs/hw-license/cern-ohl-p-v2.md) (see notices to include in #5).
+3. You can copy, distribute, or modify the design files. When sharing the hardware design source files, the [license text](/docs/hw-license/cern-ohl-p-v2.md), [license use guide](/docs/hw-license/hw-license-howto.pdf) and the **change log** (<project_repo>/docs/changes.md) should be included (see notices to include in #5).
+4. If you make modifications to the design, these should be described in the **change log** (<project_repo>/docs/changes.md).
+5. The copyright and trademark notices, references to the CERN-OHL-P v2, and disclaimer of warranties:
    1. Should be kept intact if you don't make any changes to the design.
    2. Should be updated as applicable if you make any changes to the design.
    <!--   3. Must be included with the hardware you make and distribute from the source files in the project. -->
-1. The design files or hardware is provided 'as is' without any warranty. The licensor(s) have no liability for damages related to the project.
+6. The design files or hardware is provided 'as is' without any warranty. The licensor(s) have no liability for damages related to the project.
 
-1. Anyone litigating for patent infringement would lose the rights granted by the license.
+7. Anyone litigating for patent infringement would lose the rights granted by the license.
 
-1. If it comes to our attention that you have infringed the terms of the license, we might notify you. You have a grace period of 30 days after receiving the notification to come into compliance, which is especially helpful if you infringed the license terms inadvertently.
+8. If it comes to our attention that you have infringed the terms of the license, we might notify you. You have a grace period of 30 days after receiving the notification to come into compliance, which is especially helpful if you infringed the license terms inadvertently.
 
 > _Disclaimer_: Although we try our best to share appropriate information, we cannot provide legal advice. If you notice something wrong or inconsistent, please [get in touch](/profile/README.md#get-in-touch).
 
