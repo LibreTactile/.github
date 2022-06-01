@@ -52,7 +52,6 @@ You can also show support for the project, through a financial contribution by u
 ## Research team
 
 [Juan Nino MA](https://www.juannino.dev/) - Ph.D. student at Laval University in Quebec.
-
 [Jocelyne Kiss Ph.D.](https://www.design.ulaval.ca/personnel/professeurs/jocelyne-kiss) - Associate Professor of Arts and Technologies.  
 [Geoffrey Edwards](https://www.scg.ulaval.ca/geoffrey-edwards) - Professeur titulaire Faculté de foresterie, géographie et géomatique, Département des sciences géomatiques / Université Laval  
 [Ernesto Morales PhD](https://www.cirris.ulaval.ca/en/researchers/ernesto-morales/) - Associate professor, Faculté de Médecine, Département de réadaptation / Université Laval  
@@ -62,20 +61,11 @@ You can also show support for the project, through a financial contribution by u
 ## Partners
 
 The [project](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) that led to the founding of LibreTactile was made possible thanks to the collaboration of our partners.
-
-[![Laval University logo](/docs/img/logo-ulaval.png "Laval University")](https://www.ulaval.ca/en)
-
-[![CIRRIS logo](/docs/img/logo-cirris.png "CIRRIS")](https://www.cirris.ulaval.ca/)
-
-[![Inclusive society logo](/docs/img/logo_is.png "Inclusive society")](https://societeinclusive.ca/en/socinc/vers-une-societe-quebecoise-plus-inclusive/)
-
-[![CRIR logo](/docs/img/logo-crir.png "CRIR")](https://crir.ca/en/)
-
-[![Lethbridge-Layton-Mackay logo](/docs/img/logo_crllm.png "CLethbridge-Layton-Mackay")](https://www.llmrc.ca/)
-
-[![INLB logo](/docs/img/logo-inlb.png "INLB")](https://www.santemonteregie.qc.ca/en/node/2134)
-
-[![RAAMM logo](/docs/img/logo-raamm.png "RAAMM")](https://raamm.org/)
+| | | |
+|---|---|---|
+|[![Laval University logo](/docs/img/logo-ulaval.png "Laval University")](https://www.ulaval.ca/en)| [![CIRRIS logo](/docs/img/logo-cirris.png "CIRRIS")](https://www.cirris.ulaval.ca/)|[![Inclusive society logo](/docs/img/logo_is.png "Inclusive society")](https://societeinclusive.ca/en/socinc/vers-une-societe-quebecoise-plus-inclusive/)|
+|[![Lethbridge-Layton-Mackay logo](/docs/img/logo_crllm.png "CLethbridge-Layton-Mackay")](https://www.llmrc.ca/)| [![INLB logo](/docs/img/logo-inlb.png "INLB")](https://www.santemonteregie.qc.ca/en/node/2134)| [![CRIR logo](/docs/img/logo-crir.png "CRIR")](https://crir.ca/en/)|
+|[![RAAMM logo](/docs/img/logo-raamm.png "RAAMM")](https://raamm.org/)
 
 ### Acknowledgement
 
