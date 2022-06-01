@@ -62,7 +62,7 @@ Often the designs of new assistive devices simply never reach the market (and he
 Here are some of the most important implications of the CERN-OHL-`P`:
 
 1. You can make and distribute the hardware described in the design files (see notices to include in #5).
-2. You can take the design, relicense it and use it without any obligation to distribute the sources. If you relicense the project, you should include a copy of the license text (/docs/hw-license/cern-ohl-p-v2.md) (see notices to include in #5).
+2. You can take the design, relicense it and use it without any obligation to distribute the sources. If you relicense the project, you should include a copy of the [license text](/docs/hw-license/cern-ohl-p-v2.md) (see notices to include in #5).
 3. You can copy, distribute, or modify the design files. When sharing the hardware design source files, the [license text](/docs/hw-license/cern-ohl-p-v2.md), [license use guide](/docs/hw-license/hw-license-howto.pdf) and the **change log** (<project_repo>/docs/changes.md) should be included (see notices to include in #5).
 4. If you make modifications to the design, these should be described in the **change log** (<project_repo>/docs/changes.md).
 5. The copyright and trademark notices, references to the CERN-OHL-P v2, and disclaimer of warranties:
