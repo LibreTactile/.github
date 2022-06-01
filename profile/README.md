@@ -36,9 +36,7 @@ Although each project comes with its particularities, our projects are developed
 
 ## Get in touch
 
-If you need help building or modifying one of our projects, or if you would like to encourage the team or join our efforts, you can get check out the [FAQ](/docs/faq.md), and join in the discussion (pending), or send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
-
-<!-- TODO:  manage discussions for organization and specific repos ...-->
+If you need help building or modifying one of our projects, or if you would like to encourage the team or join our efforts, you can get check out the [FAQ](/docs/faq.md), and join in the [discussion](https://github.com/orgs/LibreTactile/discussions), or send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
 
 Don't forget to read the [code of conduct](/docs/code_of_conduct.md) to understand the kind of open and welcoming environment we promote.
 
