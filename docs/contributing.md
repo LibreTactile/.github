@@ -17,7 +17,7 @@ Style guide for design (pending), documentation and code (pending), issue templa
 
 ## What to contribuite
 
-Here are the main areas for contribution. Eventually, we will add project tasks (pending) and when we do, take a look at them to see if there is anything you would be interested in doing.
+Here are the main areas for contribution. Eventually, we will add project tasks (pending) and when we do, take a look at them to see if there is anything you would be interested in doing. You can find more ideas of how to contribute [here](https://opensource.guide/how-to-contribute/).
 
 ### Communication
 
@@ -41,7 +41,7 @@ Here are the main areas for contribution. Eventually, we will add project tasks 
 
 ### HR
 
-1. Manage volunteers, hire/compensate contribuitors, etc.
+1. Manage volunteers, hire/compensate contributors, etc.
 1. Board of directors
    -->
 

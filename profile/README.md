@@ -49,7 +49,7 @@ You can also show support for the project, through a financial contribution by u
 
 ## Research team
 
-[Juan Nino MA](https://www.juannino.dev/) - Ph.D. student at Laval University in Quebec.
+[Juan Nino MA](https://www.juannino.dev/) - Ph.D. student at Laval University in Quebec.  
 [Jocelyne Kiss Ph.D.](https://www.design.ulaval.ca/personnel/professeurs/jocelyne-kiss) - Associate Professor of Arts and Technologies.  
 [Geoffrey Edwards](https://www.scg.ulaval.ca/geoffrey-edwards) - Professeur titulaire Faculté de foresterie, géographie et géomatique, Département des sciences géomatiques / Université Laval  
 [Ernesto Morales PhD](https://www.cirris.ulaval.ca/en/researchers/ernesto-morales/) - Associate professor, Faculté de Médecine, Département de réadaptation / Université Laval  
