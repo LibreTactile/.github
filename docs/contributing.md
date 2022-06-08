@@ -7,7 +7,7 @@ Thanks! We appreciate your interest in contributing to a LibreTactile project! C
 1. Check out [github's guide to first contributions](https://github.com/firstcontributions/first-contributions) if you are new to contributing, also our discussion tab for new contributors (pending).
 1. Read our general [FAQ](/docs/faq.md) and the README of the project you are working on to familiarize yourself with the overall goal of the project.
 1. We encourage you to discuss your contribution with others in the community so you can get constructive feedback on your ideas BEFORE putting in the effort.
-1. Read and follow the [Code of conduct](/docs/code_of_conduct.md).
+1. Read and follow the [code of conduct](/docs/code_of_conduct.md).
 1. If you are making changes to the hardware design files, don't forget to read the [FAQ](/docs/faq.md#open-hardware) and the [hardware license guide](/docs/hw-license/hw-license-howto.pdf), and adding a brief description of your changes to the [change log](/docs/rd/changes.md).
 1. Remember that we are currently at an early stage, so as the projects mature and grow, this guide will evolve. Come back to this document from time to time.
 
