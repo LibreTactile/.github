@@ -32,8 +32,7 @@ Although each project comes with its particularities, our projects are developed
 5. _Easy to build_ with basic software or electronic skills, tools, and components.
 6. _Easy to modify_, to facilitate the implementation of new ideas.
 
-> You can learn more about the research and development of our current and future projects in the [R&D](/docs/R-and-D.MD) document. (pending)
-
+> You can learn more about the research and development of our current and future projects in the [R&D](/docs/R-and-D.MD) document.
 ## Get in touch
 
 If you need help building or modifying one of our projects, or if you would like to encourage the team or join our efforts, you can get check out the [FAQ](/docs/faq.md), and join in the [discussion](https://github.com/orgs/LibreTactile/discussions), or send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
