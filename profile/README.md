@@ -7,7 +7,7 @@ Although we pay extra attention to developing assistive technologies, you will s
 ## The birth of LibreTactile
 
 [We](#research-team) are developing [assistive technology](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) for visually impaired people, and we noticed that there aren't many options for tactile interfaces, not even simple ones, and certainly not many inexpensive ones.  
-So we decided to create our own and open source it to enable more people to develop tactile interfaces for assistive technology or any other field (gaming, XR, VR neuro-rehab, etc). Because such a task requires the resources and expertise from different fields, we decided to create an organization to orchestrate these efforts.
+So we decided to **create our own** and open source it to _enable more people to develop tactile interfaces_ for assistive technology or any other field (gaming, XR, VR neuro-rehab, etc). Because such a task requires the resources and expertise from different fields, we decided to create an organization to orchestrate these efforts.
 
 ## A platform for community
 
