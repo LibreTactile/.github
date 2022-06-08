@@ -13,7 +13,7 @@ We would love to see a picture of a marshmallow-roasting flamethrower with tacti
 
 ## Goals:
 
-The first goal of development will be the codesign, construction, and user testing of the [tactile-navigator]()(pending). It is the [project](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) for my doctoral thesis and has been developed based on academic research, user experiments, years of efforts, and the [partnership](../profile/README.md# acknowledgment) of multiple universities, research centers, and community organizations.
+The first goal of development will be the codesign, construction, and user testing of the [tactile-navigator]()(pending). It is the [project](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) for my doctoral thesis and has been developed based on academic research, user experiments, years of efforts, and the [partnership](../profile/README.md#partners) of multiple universities, research centers, and community organizations.
 This very early prototype embodies the [R&D approach](#approach) of LibreTactile, and as such, there is plenty of potential for contribution.
 
 The second goal will be to adapt this technology to benefit other fields like XR, gaming, neuro rehab, multimodal communication, music learning, etc.
@@ -38,7 +38,7 @@ The following diagram illustrates this principle:
 An assistive technology device to help visually impaired users navigate the internet.
 
 1.  Open **hardware** modules:
-    1. Stimulation mechanism: Tact-out/stim-sma - Tactile stimulation point driven by shape memory alloy wire.
+    1. Stimulation mechanism: [Tact-io-sma](https://github.com/LibreTactile/tact-io-sma) - Tactile stimulation point driven by shape memory alloy wire.
     2. Interface design: Tact-matrix: A tactile stimulation matrix made up of multiple tactile stimulation points.
     3. Control and communication: Arduino USB CDC control module.
 2.  Open **software** modules:
@@ -49,7 +49,7 @@ An assistive technology device to help visually impaired users navigate the inte
 A tactile interface to bring tactile stimulation to VR experiences.
 
 1.  Open **hardware** modules:
-    1. Stimulation mechanism: Tact-out/stim-sma - Tactile stimulation point driven by shape memory alloy wire.
+    1. Stimulation mechanism: [Tact-io-sma](https://github.com/LibreTactile/tact-io-sma) - Tactile stimulation point driven by shape memory alloy wire.
     2. Interface design: Tact-glove: A tactile stimulation glove made up of multiple tactile stimulation points adapted to fit the fingers.
     3. Control and communication: Arduino USB CDC control module.
 2.  Open **software** modules:
