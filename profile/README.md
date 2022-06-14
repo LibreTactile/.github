@@ -1,6 +1,6 @@
 # Hi there 👋
 
-LibreTactile is an organization concerned with researching, developing, and diffusing open-source tactile technologies for human-computer interaction.
+LibreTactile is an organization concerned with researching, developing, and disseminating open-source tactile technologies for human-computer interaction.
 
 Although we pay extra attention to developing assistive technologies, you will see the same technology implemented in VR gaming and other fields. That's part of the charm of open source, after all. :wink:
 
