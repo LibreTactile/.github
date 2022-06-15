@@ -24,7 +24,7 @@ To connect researchers, developers, users, and enthusiasts of tactile technology
 
 ### How to join the effort?
 
-You could [lend a hand](/profile/README.md#help-out) in any area of your interest, like writing, translating, testing, improving the design, spreading the word or maintaining the repositories.
+You could [lend a hand](/profile/README.md#get-in-touch) in any area of your interest, like writing, translating, testing, improving the design, spreading the word or maintaining the repositories.
 
 <!--TODO: List of tasks to prioritize-->
 
