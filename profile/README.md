@@ -44,6 +44,8 @@ We are a small team made-up mostly of academic researchers (I am currently the o
 
 You can also show support for the project, through a financial contribution by using our GitHub sponsor button (pending).
 
+If you are a researcher or developer with an interesting vision for one of our projects, you can request a beta prototype by filling this form (pending). Please consider that we have to prioritize requests according to our limited resources. 
+
 <!-- TODO:  add sponsor button or something like that .-->
 
 ## Research team
