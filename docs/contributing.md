@@ -47,7 +47,7 @@ Here are the main areas for contribution. Eventually, we will add project tasks 
 
 ### R&D
 
-1. Building projects and sharing your progress/issues/insights.
+1. [Building](https://github.com/LibreTactile/.github/tree/main/profile#build-it-yourself) our projects and sharing your progress/issues/insights. 
 1. Improving the hardware (tactile technology, interface design, etc.)  or software (plugins for JAWS/NVDA, Unity3d, audiobook readers, IDEs, etc.).
    > Check out the [R&D document](/docs/R-and-D.MD) to understand our development approach, and the direction of current and future projects.
 
@@ -56,6 +56,8 @@ Here are the main areas for contribution. Eventually, we will add project tasks 
 ## Financial contributions
 (pending)
 
+### Buy our products
+(pending)
 
 ## Maintainers
 
