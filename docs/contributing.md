@@ -53,6 +53,10 @@ Here are the main areas for contribution. Eventually, we will add project tasks 
 
 ---
 
+## Financial contributions
+(pending)
+
+
 ## Maintainers
 
 Please consider that I am currently the sole maintainer of the project, and although I will try to keep it updated often, it might take me a while to get to your issues or contributions. However, I would be happy to accept anyone that agrees with the code of conduct as a maintainer, to help out with as much or as little as they want. You can send me an email at [LibreTactile](mailto:libretactile@gmail.com).
