@@ -40,6 +40,11 @@ Although each project comes with its particularities, our projects are developed
 ### wearable sensations
 --> Add tomato navigator project description, status, milestones, link to repository & discussion tab.
 
+### Build it yourself:
+You can find the build guides for each one of our projects listed here:
+
+
+
 ## Get in touch
 
 If you need help building or modifying one of our projects, or if you would like to encourage the team or join our efforts, you can get check out the [FAQ](/docs/faq.md), and join in the [discussion](https://github.com/orgs/LibreTactile/discussions), or send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
