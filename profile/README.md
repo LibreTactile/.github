@@ -1,13 +1,10 @@
 # Hi there 👋
 
-LibreTactile is an organization concerned with researching, developing, and disseminating open-source tactile technologies for human-computer interaction.
-
-Although we pay extra attention to developing assistive technologies, you will see the same technology implemented in VR gaming and other fields. That's part of the charm of open source, after all. :wink:
+[LibreTactile](https://www.libretactile.org/faqs.html) creates open-source touch-based technologies that make it easier and more natural for people to interact with computers.
 
 ## The birth of LibreTactile
 
-[We](#research-team) are developing [assistive technology](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) for visually impaired people, and we noticed that there aren't many options for tactile interfaces, not even simple ones, and certainly not many inexpensive ones.  
-So we decided to **create our own** and open source it to _enable more people to develop tactile interfaces_ for assistive technology or any other field (gaming, XR, VR neuro-rehab, etc). Because such a task requires the resources and expertise from different fields, we decided to create an organization to orchestrate these efforts.
+As part of my (Juan Nino) PhD research, I'm developing assistive technology to help visually impaired people navigate the internet. A simple, affordable, and open-source tactile interface was not available in the market. So, [we](#research-team) created our own and decided to open-source it to help more people develop tactile interfaces for assistive technology, gaming, XR, VR, neuro-rehab, consumer electronics, and other fields. Libretactile is being founded to foster multidisciplinary collaboration and adoption of our assistive technology.
 
 ## A platform for community
 
@@ -19,13 +16,13 @@ So we invite people from different backgrounds, nationalities, and interests (in
 
 We encourage (but do not enforce) the use of permissive licenses (such as MIT, FreeBSD, CERN-OHL-P, etc.) so that everyone can use, share, modify, buy, sell, and spread the fruits of the community.
 
-> You can learn more about our choice of license and the organization by reading the [FAQ](/docs/faq.md).
+> You can learn more about our choice of license and the organization by reading the [FAQ](https://www.libretactile.org/faqs.html).
 
 ## R & D
+While each of our projects has its unique characteristics, we prioritize the following design considerations during their development: 
 
-Although each project comes with its particularities, our projects are developed by prioritizing the following design considerations:
-
-1. _Open source_, which means anyone in the world can build, support, improve and sell the hardware so it can mature over time.
+1. _Equitable_, Creating technology that considers the diverse needs and perspectives of all people, especially those who are historically excluded. It involves collaborating with communities to understand their needs and incorporating their feedback into the technology design. 
+1. _Open source_, Anyone in the world can build, support, improve, and sell the hardware so it can mature over time.
 2. _Modular_, simple and scalable designs that allow for different configurations to build more complex tactile human-computer interfaces.
 3. _Low-cost_, to make it easier for everyone to access our tactile gadgets.
 4. _Easy to use_ for users, hobbyists, makers, technicians, clinicians, and researchers.
@@ -35,28 +32,26 @@ Although each project comes with its particularities, our projects are developed
 > You can learn more about the research and development of our current and future projects in the [R&D](/docs/R-and-D.MD) document.
 ## Our Projects
 ### tomat navigator
---> Add tomato navigator project description, status, milestones, link to repository & discussion tab, link to SI project page. 
+“Touch Matrix Assisitive Technology Navigator” (tomat navigator) is an affordable, open-source assistive technology that uses AI and tactile technologies to make it easier and more natural for visually impaired users to navigate the internet. It works as a companion device for screen readers, providing an interactive non-visual representation of a webpage through audio-tactile feedback. It was codesigned with and for visually impaired screen reader users. 
 
 ### wearable sensations
---> Add tomato navigator project description, status, milestones, link to repository & discussion tab.
+"Wearable Sensations" is a tactile wearable interface based on the "Tomat Navigator." The wearable device lets you reposition the touch points to create custom sensory experiences for mobile and desktop platforms. The project is currently in its early stages of development with a specific focus on rehabilitation technology. We plan to make the design available for everyone to use and improve by making it open source. 
 
 ### Build it yourself:
-You can find the build guides for each one of our projects listed here:
-
+[Tomat Navigator build guide.](pending)
+[Wearable Sensations build guide.](pending)
 
 
 ## Get in touch
 
-If you need help building or modifying one of our projects, or if you would like to encourage the team or join our efforts, you can get check out the [FAQ](/docs/faq.md), and join in the [discussion](https://github.com/orgs/LibreTactile/discussions), or send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
+If you need help building or modifying one of our projects, or if you would like to encourage the team or join our efforts, you can get check out the [FAQ](https://www.libretactile.org/faqs.html), and join in the [discussion](https://github.com/orgs/LibreTactile/discussions), or send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
 
 Don't forget to read the [code of conduct](/docs/code_of_conduct.md) to understand the kind of open and welcoming environment we promote.
 
-If you would like to contribute to the project, follow the [contributing guideliness](/docs/contributing.md).
-We are a small team made-up mostly of academic researchers (I am currently the only developer). So any artist, writer, translator, tester, accessibility expert, researcher, developer maintainer, or anyone who can (and wishes) to help is very much appreciated.
+Whether you're passionate about graphic design, software/hardware development, researching, writing, translating, testing, promoting, managing repositories, or if you have an interesting vision for one of our projects, we welcome your contributions. To get started follow the [contributing guideliness](/docs/contributing.md).
+You can also show support for the project, through financial contributions by using our GitHub [sponsor button](pending).
 
-You can also show support for the project, through a financial contribution by using our GitHub sponsor button (pending).
-
-If you are a researcher or developer with an interesting vision for one of our projects, you can request a beta prototype by filling this form (pending). Please consider that we have to prioritize requests according to our limited resources. 
+If you are a researcher or developer with an interesting vision for one of our projects, you can request a beta prototype by filling [this form](pending). Please consider that we have to prioritize requests according to our limited resources. 
 
 <!-- TODO:  add sponsor button or something like that .-->
 
@@ -64,7 +59,7 @@ If you are a researcher or developer with an interesting vision for one of our p
 
 [Juan Nino MA](https://www.juannino.dev/) - Ph.D. student at Laval University in Quebec.  
 [Jocelyne Kiss Ph.D.](https://www.design.ulaval.ca/personnel/professeurs/jocelyne-kiss) - Associate Professor of Arts and Technologies.  
-[Geoffrey Edwards](https://www.scg.ulaval.ca/geoffrey-edwards) - Professeur titulaire Faculté de foresterie, géographie et géomatique, Département des sciences géomatiques / Université Laval  
+[Geoffreyjen Edwards](https://www.scg.ulaval.ca/geoffrey-edwards) - Professeur titulaire Faculté de foresterie, géographie et géomatique, Département des sciences géomatiques / Université Laval  
 [Ernesto Morales PhD](https://www.cirris.ulaval.ca/en/researchers/ernesto-morales/) - Associate professor, Faculté de Médecine, Département de réadaptation / Université Laval  
 [Walter Wittich Ph.D. FAAO CLVT](https://www.opto.umontreal.ca/wittichlab/en/index.html) - Associate Professor, School of Optometry  
 [Frédérique Poncet ERG PhD](https://crir.ca/en/member/frederique-poncet-erg-ph-d/) Institutional Researcher, Lethbridge-Layton-Mackay Rehabilitation Centre (LLMRC)
