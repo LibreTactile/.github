@@ -32,9 +32,14 @@ While each of our projects has its unique characteristics, we prioritize the fol
 > You can learn more about the research and development of our current and future projects in the [R&D](/docs/R-and-D.MD) document.
 ## Our Projects
 ### tomat navigator
-“Touch Matrix Assisitive Technology Navigator” (tomat navigator) is an affordable, open-source assistive technology that uses AI and tactile technologies to make it easier and more natural for visually impaired users to navigate the internet. It works as a companion device for screen readers, providing an interactive non-visual representation of a webpage through audio-tactile feedback. It was codesigned with and for visually impaired screen reader users. 
+Repository under construction. You can read more information about the project in [my portfolio](https://www.juannino.dev/tomat.html) and the [project presentation page](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) of our partner the Inclusive Society. 
+
+“Touch Matrix Assistive Technology Navigator” (tomat navigator) is an affordable, open-source assistive technology that uses AI and tactile technologies to make it easier and more natural for visually impaired users to navigate the internet. It works as a companion device for screen readers, providing an interactive non-visual representation of a webpage through audio-tactile feedback. It was codesigned with and for visually impaired screen reader users. 
+
 
 ### wearable sensations
+Repository under construction.
+
 "Wearable Sensations" is a tactile wearable interface based on the "Tomat Navigator." The wearable device lets you reposition the touch points to create custom sensory experiences for mobile and desktop platforms. The project is currently in its early stages of development with a specific focus on rehabilitation technology. We plan to make the design available for everyone to use and improve by making it open source. 
 
 ### Build it yourself:
