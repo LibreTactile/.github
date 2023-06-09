@@ -1,15 +1,15 @@
 # Contributing to LibreTactile
 
-Thanks! We appreciate your interest in contributing to a LibreTactile project! Currently, the organization and its projects are in their early stages, so there will always be something you could do to make this better for everyone.
+Thanks! We appreciate your interest in contributing to a LibreTactile project! Currently, the organization and its projects are in their early stages, so there will always be something you could do to make this better for everyone. 
 
 ## Before you contribuite
 
 1. Check out [github's guide to first contributions](https://github.com/firstcontributions/first-contributions) if you are new to contributing, also our discussion tab for new contributors (pending).
-1. Read our general [FAQ](/docs/faq.md) and the README of the project you are working on to familiarize yourself with the overall goal of the project.
+1. Read our general [FAQ](https://www.libretactile.org/faqs.html) and the README of the project you are working on to familiarize yourself with the overall goal of the project.
 1. We encourage you to discuss your contribution with others in the community so you can get constructive feedback on your ideas BEFORE putting in the effort.
 1. Read and follow the [code of conduct](/docs/code_of_conduct.md).
-1. If you are making changes to the hardware design files, don't forget to read the [FAQ](/docs/faq.md#open-hardware) and the [hardware license guide](/docs/hw-license/hw-license-howto.pdf), and adding a brief description of your changes to the [change log](/docs/rd/changes.md).
-1. Remember that we are currently at an early stage, so as the projects mature and grow, this guide will evolve. Come back to this document from time to time.
+1. If you are making changes to the hardware design files, don't forget to read the [hardware license guide](/docs/hw-license/hw-license-howto.pdf), and to add a brief description of your changes to the [change log](/docs/rd/changes.md) before a pull request.
+1. Please keep in mind that we are currently in the early stages of our projects, and as they continue to mature and expand, this guide will also evolve. We encourage you to revisit this document periodically to stay updated.
 
 ### Style
 
@@ -17,16 +17,16 @@ Style guide for design (pending), documentation and code (pending), issue templa
 
 ## What to contribuite
 
-Here are the main areas for contribution. Eventually, we will add project tasks (pending) and when we do, take a look at them to see if there is anything you would be interested in doing. You can find more ideas of how to contribute [here](https://opensource.guide/how-to-contribute/).
+Below are the main areas where you can contribute. In the future, we will include projects and issues, as well as other areas. Please review them to identify any tasks you may be interested in. Additionally, feel free to initiate a discussion or reach out to us via [email](mailto:libretactile@gmail.com) for further information on how you can make a meaningful impact.
 
 ### Communication
-
-1. Improving user experience with the organization, projects, and support.
-2. Improving the documentation (grammar, spelling, diagrams, emojis, translations from technical to plain human languages).
-3. Creating and sharing posts about LibreTactile and its projects.
-4. Sharing new ways to use or improve the projects.
-5. Helping other contributors with their issues.
-6. Community and organizational health, consultation, and decision making.
+1. Participate in [discussions](https://github.com/orgs/LibreTactile/discussions)!
+2. Improving user experience with the organization, projects, and support.
+3. Improving the documentation (grammar, spelling, diagrams, emojis, translations from technical to plain human languages).
+4. Creating and sharing posts about LibreTactile and its projects.
+5. Sharing new ways to use or improve the projects.
+6. Helping other contributors with their issues.
+7. Community and organizational health, consultation, and decision making.
 
 
 
@@ -54,13 +54,13 @@ Here are the main areas for contribution. Eventually, we will add project tasks 
 ---
 
 ## Financial contributions
-(pending)
+In the near future, we will be opening opportunities for financial contributions to support our project. Stay tuned for updates on how you can contribute to making a difference.
 
 ### Buy our products
-(pending)
+Exciting news! In the future, we will be offering the option to purchase our assistive technology directly from www.libretactile.org. Additionally, we will provide comprehensive instructions on how to build and customize our assistive technology design on your own. Stay tuned for more updates on these exciting developments!
 
 ## Maintainers
 
-Please consider that I am currently the sole maintainer of the project, and although I will try to keep it updated often, it might take me a while to get to your issues or contributions. However, I would be happy to accept anyone that agrees with the code of conduct as a maintainer, to help out with as much or as little as they want. You can send me an email at [LibreTactile](mailto:libretactile@gmail.com).
+Kindly note that I am currently the sole maintainer of this project. While I will make every effort to keep it regularly updated, please understand that it may take some time for me to address your issues or contributions. Nevertheless, I am more than willing to welcome individuals who align with our code of conduct as additional maintainers. They can contribute as much or as little as they desire. Your understanding and support are greatly appreciated. If you are interested in becoming a maintainer you can send me an email at [LibreTactile](mailto:libretactile@gmail.com).
 
 # Happy making!
