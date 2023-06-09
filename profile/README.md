@@ -4,21 +4,19 @@
 
 ## The birth of LibreTactile
 
-As part of my (Juan Nino) PhD research, I'm developing assistive technology to help visually impaired people navigate the internet. A simple, affordable, and open-source tactile interface was not available in the market. So, [we](#research-team) created our own and decided to open-source it to help more people develop tactile interfaces for assistive technology, gaming, XR, VR, neuro-rehab, consumer electronics, and other fields. Libretactile is being founded to foster multidisciplinary collaboration and adoption of our assistive technology.
+As part of my Juan Nino](www.juannino.dev) PhD research, I'm developing assistive technology to help visually impaired people navigate the internet. A simple, affordable, and open-source tactile interface with a strong multidisciplinary community was not available in the market. So, [we](#research-team) created our own open-source assistive technology and are creating a community it to help more people develop tactile interfaces for assistive technology, gaming, XR, VR, neuro-rehab, consumer electronics, and other fields. Libretactile is being founded to foster multidisciplinary collaboration and adoption of our assistive technology.
 
 ## A platform for community
 
-Hence, LibreTactile aims to serve as a platform to connect academics, developers, users, and enthusiasts of tactile technology from different fields. We believe in the power, flexibility, innovation, and resilience that diversity brings into communities.
+LibreTactile aims to serve as a platform that connects academics, developers, users, and enthusiasts of tactile technology across various fields. We strongly believe in the transformative potential, adaptability, innovation, and strength that diversity brings to communities. Therefore, we wholeheartedly invite individuals from diverse backgrounds, nationalities, and interests, including assistive technology, UX/rehabilitation research, consumer electronics, designers, arts, XR, and gaming, to both benefit from and actively contribute to our organization's mission.
 
-So we invite people from different backgrounds, nationalities, and interests (including assistive technology, UX/rehabilitation research, consumer electronics, designers, arts, XR, and gaming) to benefit from and contribute to the mission of this organization.
-
-## Fundamentally OPEN
+### Fundamentally OPEN
 
 We encourage (but do not enforce) the use of permissive licenses (such as MIT, FreeBSD, CERN-OHL-P, etc.) so that everyone can use, share, modify, buy, sell, and spread the fruits of the community.
 
 > You can learn more about our choice of license and the organization by reading the [FAQ](https://www.libretactile.org/faqs.html).
 
-## R & D
+### R & D
 While each of our projects has its unique characteristics, we prioritize the following design considerations during their development: 
 
 1. _Equitable_, Creating technology that considers the diverse needs and perspectives of all people, especially those who are historically excluded. It involves collaborating with communities to understand their needs and incorporating their feedback into the technology design. 
@@ -30,6 +28,32 @@ While each of our projects has its unique characteristics, we prioritize the fol
 6. _Easy to modify_, to facilitate the implementation of new ideas.
 
 > You can learn more about the research and development of our current and future projects in the [R&D](/docs/R-and-D.MD) document.
+
+## Roadmap
+🔥 Right now we are focused on open sourcing our technology, as well as creating a diverse and strong community of users, developers, practitioners and researchers around it. 🔥
+
+---
+✅Academic Research: Assembled a team of researchers to collaborate on the development of an assistive technology for visually impaired screen reader users.
+
+✅Project Management: Successfully secured funding, allocated necessary resources, and obtained ethics approval to ensure smooth project execution.
+
+✅Networking: Formed key partnerships with universities, research centers, and nonprofit community organizations to strengthen our research and development efforts.
+
+✅Temporary Pause: Experienced a temporary pause in operations due to the COVID-19 pandemic, prioritizing the health and safety of our team and participants.
+
+✅Early R&D: Recruited visually impaired participants, conducted AT co-design and usability testing for the minimum viable product.
+
+🔥Open Sourcing: Sharing our research results and MVP design files under an open-source license, promoting collaboration and knowledge exchange within the research community.
+
+❗Community Engagement: Finalize the organization founding process, foster partnerships and cultivate a supportive community to collaboratively develop and test the beta version of our assistive technology.
+
+⏹️Official Launch: Strategically incorporate marketing and outreach initiatives, identify distribution channels, and employ an agile iteration process for technology enhancements, derivatives, and ongoing research.
+
+⏹️Scale: Expand the distribution and support of the Tomat Navigator, driving multidisciplinary innovation by venturing into the fields of rehabilitation, virtual reality, and gaming. Establish additional revenue models and forge new partnerships to propel growth.
+
+⏹️Advocacy: Actively raising awareness of our mission, advocating for equitable policies that facilitate access to assistive technologies for all individuals in need.
+
+
 ## Our Projects
 ### tomat navigator
 Repository under construction. You can read more information about the project in [my portfolio](https://www.juannino.dev/tomat.html) and the [project presentation page](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) of our partner the Inclusive Society. 
@@ -43,12 +67,9 @@ Repository under construction.
 "Wearable Sensations" is a tactile wearable interface based on the "Tomat Navigator." The wearable device lets you reposition the touch points to create custom sensory experiences for mobile and desktop platforms. The project is currently in its early stages of development with a specific focus on rehabilitation technology. We plan to make the design available for everyone to use and improve by making it open source. 
 
 ### Build it yourself:
-[Tomat Navigator build guide.](pending)
-[Wearable Sensations build guide.](pending)
-
+The Tomat Navigator & Wearable Sensations build guide is currently in development. For more information you can send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
 
 ## Get in touch
-
 If you need help building or modifying one of our projects, or if you would like to encourage the team or join our efforts, you can get check out the [FAQ](https://www.libretactile.org/faqs.html), and join in the [discussion](https://github.com/orgs/LibreTactile/discussions), or send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
 
 Don't forget to read the [code of conduct](/docs/code_of_conduct.md) to understand the kind of open and welcoming environment we promote.
