@@ -2,14 +2,13 @@
 
 ## Approach
 
-To make our technology as accessible as possible, our development process [prioritizes](//profile/README.md#r--d) openness, modularity, affordability, ease of use, construction, and modification over performance, aesthetics, or size.
+To make our technology as accessible as possible, our [R&D process](//profile/README.md#r--d) places emphasis on openness, modularity, affordability, ease of use, construction, and modification, rather than prioritizing performance, aesthetics, or size.
 
-A participatory design approach is preferred when possible: involving the target users from the beginning of any project, and recognizing them as experts in their own experiences and needs.
+Whenever possible, we prefer to adopt a participatory design approach by involving the target users from the project's inception, acknowledging their expertise in their own experiences and needs.
 
-We encourage everyone to be open about their ideas and seek feedback from the community throughout their development process.
+We strongly encourage everyone to openly share their ideas and actively seek feedback from the community throughout the development process.
 
-However, if you are passionate about creating a marshmallow-roasting flamethrower with tactile feedback in your basement, please feel free to adapt our projects to your needs and do whatever you feel is best for the project and yourself.
-We would love to see a picture of a marshmallow-roasting flamethrower with tactile feedback, by the way!
+That said, if you happen to be passionately inclined to create a marshmallow-roasting flamethrower with tactile feedback in your basement, please feel free to adapt our projects according to your needs and do what you believe is best for both the project and yourself. By the way, we would absolutely love to see a picture of your marshmallow-roasting flamethrower with tactile feedback!
 
 ## Goals:
 
@@ -33,12 +32,12 @@ The following diagram illustrates this principle:
 
 > A complete project is made of hardware and software components. The **hardware component** is made up of an arrangement (interface design) of stimulation points (stimulation mechanism module) controlled by a microcontroller (control and communication module). The **software** module is an application, browser extension, plug-in, or library that controls the behavior of the hardware component and enables advanced functionalities.
 
-### **Tactile Navigator**
+### [Tactile Navigator](https://github.com/LibreTactile#tomat-navigator)
 
 An assistive technology device to help visually impaired users navigate the internet.
 
 1.  Open **hardware** modules:
-    1. Stimulation mechanism: [Tact-io-sma](https://github.com/LibreTactile/tact-io-sma) - Tactile stimulation point driven by shape memory alloy wire.
+    1. Stimulation mechanism: mini disk vibrator motors.
     2. Interface design: Tact-matrix: A tactile stimulation matrix made up of multiple tactile stimulation points.
     3. Control and communication: Arduino USB CDC control module.
 2.  Open **software** modules:
@@ -49,7 +48,7 @@ An assistive technology device to help visually impaired users navigate the inte
 A tactile interface to bring tactile stimulation to VR experiences.
 
 1.  Open **hardware** modules:
-    1. Stimulation mechanism: [Tact-io-sma](https://github.com/LibreTactile/tact-io-sma) - Tactile stimulation point driven by shape memory alloy wire.
+    1. Stimulation mechanism: mini disk vibrator motors.
     2. Interface design: Tact-glove: A tactile stimulation glove made up of multiple tactile stimulation points adapted to fit the fingers.
     3. Control and communication: Arduino USB CDC control module.
 2.  Open **software** modules:
