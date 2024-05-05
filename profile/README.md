@@ -1,6 +1,7 @@
 # Hi there 👋
 
-[LibreTactile](https://www.libretactile.org/faqs.html) creates open-source touch-based technologies that make it easier and more natural for people to interact with computers.
+[LibreTactile](https://www.libretactile.org/faqs.html) creates open-source touch-based technologies that make it easier and more natural for people to interact with computers. We prioritize natural interaction, collaboration and connection for everyone. 
+
 
 ## The birth of LibreTactile
 
