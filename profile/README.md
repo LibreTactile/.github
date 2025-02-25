@@ -5,11 +5,11 @@
 
 ## The birth of LibreTactile
 
-As part of my Juan Nino](www.juannino.dev) PhD research, I'm developing assistive technology to help visually impaired people navigate the internet. A simple, affordable, and open-source tactile interface with a strong multidisciplinary community was not available in the market. So, [we](#research-team) created our own open-source assistive technology and are creating a community it to help more people develop tactile interfaces for assistive technology, gaming, XR, VR, neuro-rehab, consumer electronics, and other fields. Libretactile is being founded to foster multidisciplinary collaboration and adoption of our assistive technology.
+As part of my [Juan Nino](www.juannino.dev) PhD research, I'm developing assistive technology to help visually impaired people navigate the internet. A simple, affordable, and open-source tactile interface with a strong multidisciplinary community was not available in the market. So, [we](#research-team) created our own open-source assistive human-computer interface and are building a community it to help more people develop tactile interfaces for assistive technology, gaming, XR, VR, neuro-rehab, consumer electronics, and other fields. Libretactile aims to foster multidisciplinary collaboration and adoption of tactile hci and assistive technology.
 
 ## A platform for community
 
-LibreTactile aims to serve as a platform that connects academics, developers, users, and enthusiasts of tactile technology across various fields. We strongly believe in the transformative potential, adaptability, innovation, and strength that diversity brings to communities. Therefore, we wholeheartedly invite individuals from diverse backgrounds, nationalities, and interests, including assistive technology, UX/rehabilitation research, consumer electronics, designers, arts, XR, and gaming, to both benefit from and actively contribute to our organization's mission.
+LibreTactile aims to serve as a platform that connects academics, developers, users, and enthusiasts of tactile technology across various fields. We strongly believe in the transformative potential, adaptability, innovation, and strength that diversity brings to communities. Therefore, we wholeheartedly invite individuals from diverse backgrounds, nationalities, and interests, specially assistive technology, UX/rehabilitation research, consumer electronics, designers, arts, XR, and gaming, to both benefit from and actively contribute to our organization's mission.
 
 ### Fundamentally OPEN
 
@@ -44,7 +44,7 @@ While each of our projects has its unique characteristics, we prioritize the fol
 
 ✅Early R&D: Recruited visually impaired participants, conducted AT co-design and usability testing for the minimum viable product.
 
-🔥Open Sourcing: Sharing our research results and MVP design files under an open-source license, promoting collaboration and knowledge exchange within the research community.
+🔥Open Sourcing: Sharing our research results and MVP design files under an open-source license, promoting collaboration and knowledge exchange within the research community. We are being advised on this process by the non-profit [Axelys](https://www.axelys.ca/en/). 
 
 ❗Community Engagement: Finalize the organization founding process, foster partnerships and cultivate a supportive community to collaboratively develop and test the beta version of our assistive technology.
 
@@ -57,7 +57,7 @@ While each of our projects has its unique characteristics, we prioritize the fol
 
 ## Our Projects
 ### tomat navigator
-Repository under construction. You can read more information about the project in [my portfolio](https://www.juannino.dev/tomat.html) and the [project presentation page](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) of our partner the Inclusive Society. 
+[Repository](https://github.com/LibreTactile/tomat) under construction. You can read more information about the project in [my portfolio](https://www.juannino.dev/tomat.html) and the [project presentation page](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) of our partner the Inclusive Society. 
 
 “Touch Matrix Assistive Technology Navigator” (tomat navigator) is an affordable, open-source assistive technology that uses AI and tactile technologies to make it easier and more natural for visually impaired users to navigate the internet. It works as a companion device for screen readers, providing an interactive non-visual representation of a webpage through audio-tactile feedback. It was codesigned with and for visually impaired screen reader users. 
 
@@ -68,7 +68,7 @@ Repository under construction.
 "Wearable Sensations" is a tactile wearable interface based on the "Tomat Navigator." The wearable device lets you reposition the touch points to create custom sensory experiences for mobile and desktop platforms. The project is currently in its early stages of development with a specific focus on rehabilitation technology. We plan to make the design available for everyone to use and improve by making it open source. 
 
 ### Build it yourself:
-The Tomat Navigator & Wearable Sensations build guide is currently in development. For more information you can send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
+The Tomat Navigator & Wearable Sensations build guide is currently in development, you can find instructions on how to build on its repository linked above. For more information you can send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
 
 ## Get in touch
 If you need help building or modifying one of our projects, or if you would like to encourage the team or join our efforts, you can get check out the [FAQ](https://www.libretactile.org/faqs.html), and join in the [discussion](https://github.com/orgs/LibreTactile/discussions), or send an email to [libretactile@gmail.com](mailto:libretactile@gmail.com).
