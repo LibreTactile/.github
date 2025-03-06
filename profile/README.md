@@ -60,7 +60,7 @@ While each of our projects has its unique characteristics, we prioritize the fol
 [Repository](https://github.com/LibreTactile/tomat) under construction. You can read more information about the project in [my portfolio](https://www.juannino.dev/tomat.html) and the [project presentation page](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) of our partner the Inclusive Society. 
 
 “Touch Matrix Assistive Technology Navigator” (tomat navigator) is an affordable, open-source assistive technology that uses AI and tactile technologies to make it easier and more natural for visually impaired users to navigate the internet. It works as a companion device for screen readers, providing an interactive non-visual representation of a webpage through audio-tactile feedback. It was codesigned with and for visually impaired screen reader users. 
-
+First release has been archived using Zenodo [![DOI](https://zenodo.org/badge/938456969.svg)](https://doi.org/10.5281/zenodo.14977337)
 
 ### wearable sensations
 Repository under construction.
